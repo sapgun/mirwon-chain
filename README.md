@@ -126,7 +126,7 @@ Implemented application areas include:
 The deployed reference build is available at:
 
 ```txt
-https://mirwon-chain-6b2f.vercel.app/
+https://mirwon-chain-x5mu.vercel.app/
 ```
 
 ## Tech Stack
